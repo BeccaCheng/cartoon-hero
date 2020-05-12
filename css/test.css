@@ -1,0 +1,25 @@
+body{
+	background-color: floralwhite;
+}
+
+h1{
+font-size: 50px;
+color: saddlebrown;
+}
+
+h2{
+font-size: 30px;
+color: sandybrown;
+}
+
+.big{
+font-size: 70px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+h1 span{
+color: teal;
+}
